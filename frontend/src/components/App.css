@@ -1,0 +1,45 @@
+.appContent {
+  padding: 15px
+}
+
+.appLoading {
+  text-align: center;
+  margin: 30px;
+}
+
+.rightButtons {
+	position: absolute;
+    top: 0;
+  	right: 0;
+}
+
+.postInfo {
+  font-size: 14px; 
+  color: rgba(0, 0, 0, 0.54); 
+  /*display: block;*/
+  height: 32px;
+}
+
+.postFooter {
+  background-color: #f5f5f5;
+  padding: 8px 16px;
+}
+
+.postFooterItem {
+  height: 24px;
+  width: 24px;
+  float: left;
+  display: inline;
+}
+
+.postFooterItemValue {
+  padding: 5px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.commentInfo {
+	font-size: 12px; 
+  	color: rgba(0, 0, 0, 0.54); 
+    height: 24px;
+}
